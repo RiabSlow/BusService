@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bus Service</string>
+    <string name="startin_point">Startin point</string>
+    <string name="destination_point">Destination point</string>
+    <string name="search">Search</string>
+
+    <string-array name="location_list">
+        <item>Gabtoli</item>
+        <item>Mirpur 1</item>
+        <item>Mirpur 10</item>
+        <item>Jamuna Future Park</item>
+        <item>Natun Bazar</item>
+        <item>Badda</item>
+        <item>Kazipara</item>
+        <item>Shewrapara</item>
+        <item>Mohakhali</item>
+        <item>Banani</item>
+        <item>Kakoli</item>
+        <item>Gulshan 2</item>
+        <item>Rampura</item>
+    </string-array>
+</resources>
